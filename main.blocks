@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="custom_foo" id="sezoD;eUP$)zyD,[r_4f" disabled="true" x="0" y="0"><field name="e">MyEnum.One</field><value name="n"><shadow type="math_number" id="FN0^3GH3?suWlbEMp[iM" disabled="true"><field name="NUM">5</field></shadow></value><value name="s"><shadow type="text" id="n(~Z~4-q)xSPfmt~~[g!" disabled="true"><field name="TEXT">Hello</field></shadow></value></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="dg+9sY=po=w,+Ze!B4gN" x="0" y="0"></block></xml>
