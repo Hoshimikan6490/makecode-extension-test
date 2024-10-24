@@ -7,7 +7,7 @@
 1. [https://minecraft.makecode.com/](https://minecraft.makecode.com/) を開く
 2. **新しいプロジェクト** をクリックしてください
 3. ギアボタンメニューの中にある **拡張機能** をクリックしてください
-4. **https://github.com/hoshimikan6490/hiragana** を検索してインポートします。
+4. **https://github.com/hoshimikan6490/makecode-extension-test** を検索してインポートします。
 
 ## このプロジェクトを編集します
 
@@ -17,7 +17,7 @@ MakeCode でこのリポジトリを編集します。
 
 1. [https://minecraft.makecode.com/](https://minecraft.makecode.com/) を開く
 2. **読み込む** をクリックし、 **URL から読み込む...** をクリックしてください
-3. **https://github.com/hoshimikan6490/hiragana** を貼り付けてインポートをクリックしてください
+3. **https://github.com/hoshimikan6490/makecode-extension-test** を貼り付けてインポートをクリックしてください
 
 #### メタデータ (検索、レンダリングに使用)
 
